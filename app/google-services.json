@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "308419134152",
+    "firebase_url": "https://fir-authlogin-c7c1e.firebaseio.com",
+    "project_id": "fir-authlogin-c7c1e",
+    "storage_bucket": "fir-authlogin-c7c1e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:308419134152:android:93df3b09615e5569",
+        "android_client_info": {
+          "package_name": "com.example.munia.firebaseauthlogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "308419134152-bc25o3i9spbb50cspg2fpkjvpmekhpts.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQXbswEOD7t8K7xBYTdOiXbf8O25AJMj4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
